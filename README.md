@@ -1,6 +1,6 @@
 # Olá! 👋
 
-## 🔹 Sobre min:
+## 🔹 Sobre mim:
 
 👨‍💻 Atualmente trabalho como programador frontend na empresa [E&L Produções de software Ltda](https://www.el.com.br/)<br>
 📚 Faço Sistemas de Informação na faculdade FAESA<br>
