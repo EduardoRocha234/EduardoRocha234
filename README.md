@@ -41,9 +41,10 @@
 ![TRELLO](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
+[![](https://visitcount.itsvg.in/api?id=EduardoRocha&label=Estiveram%20aqui&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 ## 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoRocha234&&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EduardoRocha234&theme=tokyonight&hide_border=false)<br/>
 [![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoRocha234&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/EduardoRocha234/github-readme-stats)
 
-[![](https://visitcount.itsvg.in/api?id=EduardoRocha&label=Estiveram%20aqui&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
