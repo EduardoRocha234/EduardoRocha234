@@ -13,7 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]('https://www.linkedin.com/in/eduardo-rocha-aleixo-068969227/')
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)]('https://www.codewars.com/users/EduardoRocha234')
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]('mailto:duduraleixo2005@gmail.com')
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]('https://eduardorocha.netlify.app/')
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eduardorocha.netlify.app/)
 
 ## 💻 Tecnologias
 
