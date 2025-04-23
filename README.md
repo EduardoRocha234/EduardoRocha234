@@ -2,7 +2,7 @@
 
 ## 🔹 Sobre mim:
 
-👨‍💻 Atualmente trabalho como programador frontend na empresa [E&L Produções de software Ltda](https://www.el.com.br/)<br>
+👨‍💻 Atualmente trabalho como programador fullstack na empresa [E&L Produções de software Ltda](https://www.el.com.br/)<br>
 📚 Faço Sistemas de Informação na faculdade FAESA 4/8<br>
 
 😁 Gosto muito de tecnologia e busco aprender cada dia mais<br>
