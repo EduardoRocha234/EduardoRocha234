@@ -4,6 +4,7 @@
 
 👨‍💻 Atualmente trabalho como programador fullstack na empresa [E&L Produções de software Ltda](https://www.el.com.br/)<br>
 📚 Faço Sistemas de Informação na faculdade FAESA 5/8<br>
+💬 Estudo ingês na English Live
 
 😁 Gosto muito de tecnologia e busco aprender cada dia mais<br>
 
